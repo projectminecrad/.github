@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, We are project minecrad. Recreating sword art online in minecraft, one block at a time
+
+this is our github where we will open source some of our projects. 
+
+check out our socials [here](http://socials.saomc.online)
 
 <!--
 
